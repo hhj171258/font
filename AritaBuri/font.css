@@ -1,0 +1,27 @@
+@font-face{
+	font-family: "AritaBuri";
+	font-style: normal;
+	font-weight: 500;
+	src: url("AritaBuri-Medium.eot") format("eot"),
+		url("AritaBuri-Medium.eot?#iefix") format("embedded-opentype"),
+		url("AritaBuri-Medium.woff") format("woff"),
+		url("AritaBuri-Medium.tff") format("tff");
+}
+@font-face{
+	font-family: "AritaBuri";
+	font-style: normal;
+	font-weight: 600;
+	src: url("AritaBuri-Bold.eot") format("eot"),
+		url("AritaBuri-SemiBold.eot?#iefix") format("embedded-opentype"),
+		url("AritaBuri-SemiBold.woff") format("woff"),
+		url("AritaBuri-SemiBold.tff") format("tff");
+}
+@font-face{
+	font-family: "AritaBuri";
+	font-style: normal;
+	font-weight: 700;
+	src: url("AritaBuri-Bold.eot") format("eot"),
+		url("AritaBuri-Bold.eot?#iefix") format("embedded-opentype"),
+		url("AritaBuri-Bold.woff") format("woff"),
+		url("AritaBuri-Bold.tff") format("tff");
+}
